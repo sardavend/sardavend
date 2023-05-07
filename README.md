@@ -1,4 +1,8 @@
-### Hi there 👋
+
+* 👋 Hi, I’m @sardavend, long-time Web developer, served on various startups in Latin America, proud [Ex-gober](https://www.getonbrd.com/blog/of-course-we-interfere-in-the-market) 
+* 👀 I’m interested in *Ruby/Ruby on Rails*, *Postgres*, *React*, *Hotwire* & composing a system with Domain Modeling
+* 🌱 I’m currently learning writing, started publishing Gems(I published the oficial ruby gem for [fintoc](https://github.com/fintoc-com/fintoc-ruby))
+* 📫 Reach me at jc@sard.in or @sardavend on Twitter
 
 <!--
 **sardavend/sardavend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
