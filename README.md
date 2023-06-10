@@ -1,6 +1,6 @@
 
 * 👋 Hi, I’m @sardavend, long-time Web developer, served on various startups in Latin America, proud [Ex-gober](https://www.getonbrd.com/blog/of-course-we-interfere-in-the-market) 
-* 👀 I’m interested in *Ruby/Ruby on Rails*, *Postgres*, *React*, *Hotwire* & composing a system with Domain Modeling
+* 👀 I’m interested in *Ruby/Ruby on Rails*, *Postgres*, *React*, *Hotwire*
 * 🌱 I’m currently learning writing, and started publishing Gems(I published the oficial ruby gem for [fintoc](https://github.com/fintoc-com/fintoc-ruby))
 * 📫 Reach me at jc@sard.in or @sardavend on Twitter
 
