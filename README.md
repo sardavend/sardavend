@@ -1,5 +1,5 @@
 
-* 👋 Hi, I’m Juanki, a long-time Web developer, who served on various startups in Latin America, proud [Ex-gober](https://www.getonbrd.com/blog/of-course-we-interfere-in-the-market) 
+* 👋 Hi, I’m Juanki, a long-time Web developer, who served on various startups in Latin America
 * 👀 Even though I’m very pragmatic with the tools I use, I'm very interested in building solutions in *Ruby/Ruby on Rails*, *Postgres*, *React*, *Hotwire*
 * 🌱 I’m currently learning writing, and started publishing Gems(I published/colaborated with the oficial ruby gem for [fintoc](https://github.com/fintoc-com/fintoc-ruby))
 * 📫 Reach me at jc@sard.in or @sardavend on Twitter
